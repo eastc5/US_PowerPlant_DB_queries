@@ -6,7 +6,7 @@ and more information regarding the database can be found here: https://www.eia.g
 
 The excel data files from the zip folder were loaded into SQL Server Express using the 2016 SQL Server import and export wizard (64bit). A copy of the data used is stored in the eia8602015 file.
 
-The following queries were have been added.
+The following queries have been added.
 
 * USEnergyMixPercent.sql Percentage of US generating capacity (nameplate) by technology.
 * InstalledCoalGasSolar.sql Installed name plate capacity per year of each of the five major generating technologies; natural gas, coal, nuclear, solar and wind.
