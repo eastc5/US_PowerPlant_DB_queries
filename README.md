@@ -11,3 +11,4 @@ The following queries have been added.
 * USEnergyMixPercent.sql Percentage of US generating capacity (nameplate) by technology.
 * InstalledCoalGasSolar.sql Installed name plate capacity per year of each of the five major generating technologies; natural gas, coal, nuclear, solar and wind.
 * ECE_Cost_Per_year.sql A calculation of the amount per year (US thouands of dollars) spent on Emissions Control Technologies by US power generators 
+* GenTechByState.sql determines the generating technology with the largest name plate capacity for each state
